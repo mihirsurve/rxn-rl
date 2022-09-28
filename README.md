@@ -10,3 +10,7 @@ Code: We have provided all the python (.ipynb) files regarding reinforcement lea
       •	Step 2: If you want to train the model from scratch, use predictor_training.ipynb for TL-based regressor, and generator_training.ipynb for generator. 
       
       •	Step 3: For optimization through RL, use rl_Reaction_a.ipynb/ rl_Reaction_b.ipynb/ rl_Reaction_c.ipynb for the three different reactions as reported in this study.
+
+
+The folder 'code' is given in following link,
+https://drive.google.com/drive/folders/1vROYIOVLCsIErBq-I9OhdevdiyUiHkIB?usp=sharing
